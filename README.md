@@ -17,3 +17,5 @@ git clone https://github.com/DroidDev-js/Flower
 - HTML
 - JavaScript
 - CSS
+
+![imagem_2024-11-17_213242349](https://github.com/user-attachments/assets/7780e446-47e6-41bf-b581-4bdf6f7cd38a)
