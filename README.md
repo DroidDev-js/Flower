@@ -10,7 +10,8 @@
 
 4. Inside the terminal, type this:
 
-git clone https://github.com/DroidDev-js/Flower
+
+```git clone https://github.com/DroidDev-js/Flower```
 
 # Made with:
 
