@@ -10,9 +10,9 @@
 
 4. Inside the terminal, type this:
 
-
-```git clone https://github.com/DroidDev-js/Flower```
-
+```bash
+git clone https://github.com/DroidDev-js/Flowers
+```
 # Made with:
 
 - HTML
