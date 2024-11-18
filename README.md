@@ -1,4 +1,4 @@
-# Flower
+# Flower 🌼
 
 # ⬇️ How to use it on your computer
 
